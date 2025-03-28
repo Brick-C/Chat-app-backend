@@ -1,0 +1,5 @@
+messenger/
+mails/
+.env
+node_modules
+
